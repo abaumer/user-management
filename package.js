@@ -1,8 +1,8 @@
 Package.describe({
   name: 'abaumer:user-management',
-  summary: 'Basic pages to manage 3 user types: admin, manager, adn staff. Includes pages for: user profiles, user management, admin settings, manager settings. Relies primarily on alanning:roles and accounts-ui and others.',
+  summary: 'Basic pages to manage 3 user types: admin, manager, and staff. Includes pages for: user profiles, user management, admin settings, manager settings. Relies primarily on alanning:roles and accounts-ui and others.',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/abaumer/user-management'
 });
 
 Package.onUse(function(api) {
